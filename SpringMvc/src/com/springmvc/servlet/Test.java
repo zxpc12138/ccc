@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.View;
 
-@Component("text44555222")
+@Component("text")
 public class Test implements View{
 
 	public String getContentType() {
